@@ -16,10 +16,7 @@
           },
           "to_if_alone": [
             {
-              "key_code": "spacebar",
-              "modifiers": [
-                "left_control"
-              ]
+              "key_code": "f16"
             }
           ],
           "to_if_held_down": [
