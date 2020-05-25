@@ -16,7 +16,10 @@
           },
           "to_if_alone": [
             {
-              "key_code": "f16"
+              "key_code": "spacebar",
+              "modifiers": [
+                "left_gui"
+              ]
             }
           ],
           "to_if_held_down": [
